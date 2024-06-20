@@ -1,0 +1,12 @@
+digraph "/home/user/cmake/Projet_CMake/include/example_class.h"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [id="Node000001",label="/home/user/cmake/Projet\l_CMake/include/example\l_class.h",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="An example class."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="/home/user/cmake/Projet\l_CMake/main.cpp",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$df/d0a/main_8cpp.html",tooltip="Main function demonstrating function and ExampleClass usage."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="/home/user/cmake/Projet\l_CMake/src/example_class.cpp",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d8/da6/example__class_8cpp.html",tooltip="Implementation of ExampleClass."];
+}

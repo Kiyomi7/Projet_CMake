@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfunctions.a CMakeFiles/functions.dir/factorial.cpp.o CMakeFiles/functions.dir/fibonacci.cpp.o CMakeFiles/functions.dir/palindrome.cpp.o CMakeFiles/functions.dir/prime.cpp.o CMakeFiles/functions.dir/example_class.cpp.o
+/usr/bin/ranlib libfunctions.a

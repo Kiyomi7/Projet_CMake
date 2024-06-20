@@ -1,0 +1,7 @@
+PROJECT_NAME           = "Projet_CMake"
+RECURSIVE              = YES
+OUTPUT_DIRECTORY       = /home/user/cmake/Projet_CMake/build/docs
+CREATE_SUBDIRS         = YES
+INPUT                  = /home/user/cmake/Projet_CMake/include /home/user/cmake/Projet_CMake/src /home/user/cmake/Projet_CMake/main.cpp /home/user/cmake/Projet_CMake/docs
+GENERATE_HTML          = YES
+USE_MDFILE_AS_MAINPAGE = /home/user/cmake/Projet_CMake/docs/mainpage.md

@@ -1,0 +1,28 @@
+\doxysection{/home/user/cmake/\+Projet\+\_\+\+CMake/include/factorial.h File Reference}
+\hypertarget{factorial_8h}{}\label{factorial_8h}\index{/home/user/cmake/Projet\_CMake/include/factorial.h@{/home/user/cmake/Projet\_CMake/include/factorial.h}}
+
+
+Calculate the factorial of an integer.  
+
+
+This graph shows which files directly or indirectly include this file\+:
+% FIG 0
+\doxysubsubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{factorial_8h_a5127a26373d94a3e3d4c46eca1e20cb7}\label{factorial_8h_a5127a26373d94a3e3d4c46eca1e20cb7} 
+int {\bfseries factorial} (int a)
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Calculate the factorial of an integer. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em a} & An integer \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+The factorial of the integer 
+\end{DoxyReturn}
