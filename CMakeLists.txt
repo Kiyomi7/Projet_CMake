@@ -7,3 +7,6 @@ add_subdirectory(src)
 
 add_executable(Projet_CMake main.cpp)
 target_link_libraries(Projet_CMake functions)
+
+enable_testing()
+add_subdirectory(tests)
